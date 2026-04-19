@@ -1,11 +1,11 @@
 {
-  "name": "Michael's Mission: Second Class",
-  "short_name": "Michael's Mission",
-  "description": "Scout fitness tracker for Second Class rank",
+  "name": "Battle for Second Class",
+  "short_name": "Battle for 2nd Class",
+  "description": "Michael's Scout fitness challenge tracker",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#04050d",
-  "theme_color": "#04050d",
+  "background_color": "#fffbe6",
+  "theme_color": "#ffd740",
   "orientation": "portrait",
   "icons": [
     {
