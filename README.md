@@ -1,13 +1,13 @@
-# Michael's Mission: Second Class 🚀
+# Battle for Second Class 🏆
 
-A space-themed fitness tracker for earning the Boy Scouts Second Class rank — specifically Requirement 7a (30 min/day, 5 days/week, 4 weeks).
+Michael's fitness tracker for earning the Boy Scouts Second Class rank — Requirement 7a (30 min/day, 5 days/week, 4 weeks).
 
 ## Features
-- Activity logging (Walking, Hiking, Swimming, Mowing Lawn, Other)
-- 20-day mission progress tracker
-- Space joke reward on every log entry
-- Mission medals for activity milestones
-- Deep space fact cards
+- Activity logging (Walking, Hiking, Swimming, Mowing Lawn, Gym Class, Other)
+- "Rank at Stake" 20-day progress tracker
+- Object show joke reward on every log entry
+- Prizes & Tokens medals for activity milestones
+- Object show / indie animation trivia cards
 - Installable as a home screen app (PWA)
 
 ## Setup
