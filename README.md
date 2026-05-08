@@ -1,6 +1,6 @@
-# Battle for Second Class 🏆
+# Battle for First Class 🏆
 
-Michael's fitness tracker for earning the Boy Scouts Second Class rank — Requirement 7a (30 min/day, 5 days/week, 4 weeks).
+Michael's fitness tracker for earning the Boy Scouts First Class rank — 30 min/day, 5 days/week, 4 weeks.
 
 ## Features
 - Activity logging (Walking, Hiking, Swimming, Mowing Lawn, Gym Class, Other)
@@ -9,6 +9,7 @@ Michael's fitness tracker for earning the Boy Scouts Second Class rank — Requi
 - Prizes & Tokens medals for activity milestones
 - Object show / indie animation trivia cards
 - Installable as a home screen app (PWA)
+- Reset button (gear icon) with confirmation dialog
 
 ## Setup
 1. Upload `index.html` and `manifest.json` to this repo
@@ -17,6 +18,9 @@ Michael's fitness tracker for earning the Boy Scouts Second Class rank — Requi
 4. On iPhone: tap Share → Add to Home Screen
 5. On Android: tap the browser menu → Add to Home Screen / Install App
 
+## Resetting Data
+Tap the ⚙️ gear icon in the top-right corner of the app, then confirm to wipe all logged activities and medals.
+
 ## Requirements Covered
-BSA Second Class Rank — Requirement 7a:
-> Participate in a physical fitness program. Do the following: (a) Complete the aerobic requirement... at least 30 minutes daily, five days a week, for four weeks.
+BSA First Class Rank — physical fitness requirement:
+> Complete 30 minutes of physical activity per day, at least 5 days a week, for 4 consecutive weeks.

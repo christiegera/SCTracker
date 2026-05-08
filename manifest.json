@@ -1,6 +1,6 @@
 {
-  "name": "Battle for Second Class",
-  "short_name": "Battle for 2nd Class",
+  "name": "Battle for First Class",
+  "short_name": "Battle for 1st Class",
   "description": "Michael's Scout fitness challenge tracker",
   "start_url": "./index.html",
   "display": "standalone",
